@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "homepage": "https://github.com/subramoniyan/gulp-starter",
+  "authors": [
+    "subramoniyan <suganth1991@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "angular": "^1.5.8",
+    "backbone": "^1.3.3"
+  }
+}
